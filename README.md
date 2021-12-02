@@ -22,16 +22,13 @@ using namespace std;
 
 int main()
 {
-    // Comentario de una línea
    std::cout << "Hello Michele, Diego\nHola"  << endl; 
-   //Declaración de variables
    int numero, contador;
-   string palabra; // delimitado con " "
+   string palabra; 
    
    cout << "Division entera 1/2 = " << 1 / 2 << endl;
    cout << "Division con decimales 1/2" << 1.0/ 2 << endl;
    
-   // usar la funcion de la libreria math
    cout << "pow(5,3) = " << pow(5,3) << endl;
    
    // Operadores lógicos y relacionales
